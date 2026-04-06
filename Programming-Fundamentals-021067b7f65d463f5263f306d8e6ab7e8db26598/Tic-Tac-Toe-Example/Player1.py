@@ -1,6 +1,7 @@
 # Player1.py
 #
 # author: Stephen Adams
+#edited by: Kyle Labarge
 # date  : 2024-10-19
 #
 # This file contains the code for Player 1 in a Tic-Tac-Toe game. It is intentionally not simplified or generalized to
