@@ -1,6 +1,7 @@
 # Player2.py
 #
 # author: Stephen Adams
+# edited by Santiago Alvarez on Apr. 6, 2026
 # date  : 2024-10-19
 #
 # This file contains the code for Player 2 in a Tic-Tac-Toe game. It is intentionally not simplified or generalized to
